@@ -9,5 +9,5 @@ The following subdirectories are simple follow-alongs from a free tutorial provi
 
 - ml_practice/models/KNN/
 - ml_practice/models/linReg/
-
+- ml_practice/models/SVM/
 All data in these tutorials is taken from the [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/).
